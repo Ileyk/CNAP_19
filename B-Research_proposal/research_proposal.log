@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  21 JAN 2019 17:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  24 JAN 2019 12:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -976,19 +976,33 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'research_proposal.bbl' found.
  (./research_proposal.bbl
-LaTeX Font Info:    Try loading font information for U+msa on input line 83.
 
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Bachetti2014':
+(biblatex)                - Invalid format of field 'month'.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 217.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 83.
+LaTeX Font Info:    Try loading font information for U+msb on input line 217.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Baiotti2017':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'Berger2014':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Blondin1991':
 (biblatex)                - Invalid format of field 'month'.
 
 
@@ -998,17 +1012,32 @@ Package biblatex Warning: Biber reported the following issues
 
 
 Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Castor1975':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Crinquand2018':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Ducci2009':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'Eichler1989':
 (biblatex)                - Invalid format of field 'month'.
 
 
 Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Gehrels2005':
+(biblatex)                with 'Foucart2012':
 (biblatex)                - Invalid format of field 'month'.
 
 
 Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Gill2018':
+(biblatex)                with 'Ghosh1979':
 (biblatex)                - Invalid format of field 'month'.
 
 
@@ -1018,7 +1047,7 @@ Package biblatex Warning: Biber reported the following issues
 
 
 Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Lattimer1974':
+(biblatex)                with 'Martinez-Nunez2017':
 (biblatex)                - Invalid format of field 'month'.
 
 
@@ -1028,42 +1057,22 @@ Package biblatex Warning: Biber reported the following issues
 
 
 Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Metzger2015':
-(biblatex)                - Invalid format of field 'month'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Murguia-Berthier2014':
-(biblatex)                - Invalid format of field 'month'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Murguia-Berthier2017a':
-(biblatex)                - Invalid format of field 'month'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Peres2013':
-(biblatex)                - Invalid format of field 'month'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Philippov2014':
-(biblatex)                - Invalid format of field 'month'.
-
-
-Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'Piran2005':
 (biblatex)                - Invalid format of field 'month'.
 
 
 Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Rees1992':
+(biblatex)                with 'Sana2012':
 (biblatex)                - Invalid format of field 'month'.
 
 
 Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'Tanaka2016':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Tauris2003a':
 (biblatex)                - Invalid format of field 'month'.
 
 
@@ -1078,12 +1087,7 @@ Package biblatex Warning: Biber reported the following issues
 
 
 Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Troja2018':
-(biblatex)                - Invalid format of field 'month'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Vincent2011':
+(biblatex)                with 'Webb2014':
 (biblatex)                - Invalid format of field 'month'.
 
 )
@@ -1109,12 +1113,12 @@ Package biblatex Info: Reference segment=0 on input line 194.
 * \topmargin=-9.68535pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=44.0pt
+* \marginparwidth=59.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1189,140 +1193,127 @@ LaTeX Info: Redefining \nameref on input line 194.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 194.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 222.
 
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
+ Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Overfull \hbox (2.52635pt too wide) in paragraph at lines 235--236
-[]\T1/cmr/m/n/12 Radiative hy-dro-dy-nam-ics (HD) : line-driven winds, op-ti-ca
-lly thin and thick cool-ing/heating 
- []
-
-
-Overfull \hbox (0.75462pt too wide) in paragraph at lines 242--243
-[]\T1/cmr/m/n/12 Godunov fi-nite vol-ume meth-ods for con-ser-va-tion equa-tion
-s : ap-prox-i-mate Rie-mann solvers,
- []
-
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 287--293
+Underfull \hbox (badness 10000) in paragraph at lines 299--305
 
  []
 
-[3] <Figures/config_SgXB_clumps.png, id=49, 205.9695pt x 202.356pt>
+[3] <Figures/config_SgXB_clumps.png, id=61, 205.9695pt x 202.356pt>
 File: Figures/config_SgXB_clumps.png Graphic file (type png)
 
 <use Figures/config_SgXB_clumps.png>
-Package pdftex.def Info: Figures/config_SgXB_clumps.png used on input line 308.
+Package pdftex.def Info: Figures/config_SgXB_clumps.png used on input line 320.
 
 (pdftex.def)             Requested size: 208.52724pt x 204.85974pt.
 
-Overfull \hbox (3.66878pt too wide) in paragraph at lines 308--309
+Overfull \hbox (3.66878pt too wide) in paragraph at lines 320--321
 [][] 
  []
 
-<Figures/mesh.jpeg, id=51, 660.4675pt x 550.055pt>
+<Figures/mesh.jpeg, id=63, 660.4675pt x 550.055pt>
 File: Figures/mesh.jpeg Graphic file (type jpg)
  <use Figures/mesh.jpeg>
-Package pdftex.def Info: Figures/mesh.jpeg used on input line 313.
+Package pdftex.def Info: Figures/mesh.jpeg used on input line 325.
 (pdftex.def)             Requested size: 245.98161pt x 204.85974pt.
 
-Overfull \hbox (63.65048pt too wide) in paragraph at lines 312--314
+Overfull \hbox (63.46161pt too wide) in paragraph at lines 324--326
 []|  [] 
  []
 
 [4 <./Figures/config_SgXB_clumps.png> <./Figures/mesh.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 340--348
+Underfull \hbox (badness 10000) in paragraph at lines 350--358
 
  []
 
-<Figures/disc.png, id=63, 1001.7425pt x 809.0225pt>
+<Figures/disc.png, id=80, 1001.7425pt x 809.0225pt>
 File: Figures/disc.png Graphic file (type png)
  <use Figures/disc.png>
-Package pdftex.def Info: Figures/disc.png used on input line 377.
+Package pdftex.def Info: Figures/disc.png used on input line 387.
 (pdftex.def)             Requested size: 170.71652pt x 137.86531pt.
 File: Figures/disc.png Graphic file (type png)
 
 <use Figures/disc.png>
-Package pdftex.def Info: Figures/disc.png used on input line 377.
+Package pdftex.def Info: Figures/disc.png used on input line 387.
 (pdftex.def)             Requested size: 170.71652pt x 137.86531pt.
 File: Figures/disc.png Graphic file (type png)
  <use Figures/disc.png>
-Package pdftex.def Info: Figures/disc.png used on input line 377.
+Package pdftex.def Info: Figures/disc.png used on input line 387.
 (pdftex.def)             Requested size: 170.71652pt x 137.86531pt.
  [5 <./Figures/disc.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 388--394
+Underfull \hbox (badness 10000) in paragraph at lines 398--404
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 397.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-Overfull \hbox (7.64026pt too wide) in paragraph at lines 397--401
-[]\T1/cmr/m/n/12 For the last years, I have ex-ten-sively de-vel-oped the MHD f
-i-nite vol-ume code \T1/cmtt/m/n/12 MPI-AMRVAC\T1/cmr/m/n/12 .
- []
-
-[6] [7] <Figures/sketch_GRB_kilonova.jpg, id=125, 2148.025pt x 2272.49pt>
+[6] <Figures/sketch_GRB_kilonova.jpg, id=108, 867.24pt x 873.2625pt>
 File: Figures/sketch_GRB_kilonova.jpg Graphic file (type jpg)
 
 <use Figures/sketch_GRB_kilonova.jpg>
-Package pdftex.def Info: Figures/sketch_GRB_kilonova.jpg used on input line 435
+Package pdftex.def Info: Figures/sketch_GRB_kilonova.jpg used on input line 461
 .
-(pdftex.def)             Requested size: 227.62204pt x 240.7857pt.
+(pdftex.def)             Requested size: 227.62204pt x 229.20152pt.
 File: Figures/sketch_GRB_kilonova.jpg Graphic file (type jpg)
  <use Figures/sketch_GRB_kilonova.jpg>
-Package pdftex.def Info: Figures/sketch_GRB_kilonova.jpg used on input line 435
+Package pdftex.def Info: Figures/sketch_GRB_kilonova.jpg used on input line 461
 .
-(pdftex.def)             Requested size: 227.62204pt x 240.7857pt.
+(pdftex.def)             Requested size: 227.62204pt x 229.20152pt.
 File: Figures/sketch_GRB_kilonova.jpg Graphic file (type jpg)
 
 <use Figures/sketch_GRB_kilonova.jpg>
-Package pdftex.def Info: Figures/sketch_GRB_kilonova.jpg used on input line 435
+Package pdftex.def Info: Figures/sketch_GRB_kilonova.jpg used on input line 461
 .
-(pdftex.def)             Requested size: 227.62204pt x 240.7857pt.
+(pdftex.def)             Requested size: 227.62204pt x 229.20152pt.
 
-Overfull \hbox (9.99997pt too wide) detected at line 435
+Overfull \hbox (9.99997pt too wide) detected at line 461
  [] 
  []
 
-<Figures/tidal_disruption_radius.png, id=126, 580.3281pt x 511.6716pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\spacefactor' on input line 465.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@m' on input line 465.
+
+[7] <Figures/tidal_disruption_radius.png, id=138, 580.3281pt x 511.6716pt>
 File: Figures/tidal_disruption_radius.png Graphic file (type png)
 
 <use Figures/tidal_disruption_radius.png>
 Package pdftex.def Info: Figures/tidal_disruption_radius.png used on input line
- 452.
-(pdftex.def)             Requested size: 284.52756pt x 250.86961pt.
+ 484.
+(pdftex.def)             Requested size: 256.0748pt x 225.78421pt.
 File: Figures/tidal_disruption_radius.png Graphic file (type png)
 
 <use Figures/tidal_disruption_radius.png>
 Package pdftex.def Info: Figures/tidal_disruption_radius.png used on input line
- 452.
-(pdftex.def)             Requested size: 284.52756pt x 250.86961pt.
+ 484.
+(pdftex.def)             Requested size: 256.0748pt x 225.78421pt.
 File: Figures/tidal_disruption_radius.png Graphic file (type png)
 
 <use Figures/tidal_disruption_radius.png>
 Package pdftex.def Info: Figures/tidal_disruption_radius.png used on input line
- 452.
-(pdftex.def)             Requested size: 284.52756pt x 250.86961pt.
-
-Overfull \hbox (9.99997pt too wide) detected at line 452
- [] 
- []
-
-[8 <./Figures/sketch_GRB_kilonova.jpg>] [9 <./Figures/tidal_disruption_radius.p
-ng>] [10] [11]
+ 484.
+(pdftex.def)             Requested size: 256.0748pt x 225.78421pt.
+ [8 <./Figures/sketch_GRB_kilonova.jpg>] [9 <./Figures/tidal_disruption_radius.
+png>]
 
 Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
-(biblatex)                Ignoring 'omitnumbers=true' on input line 521.
+(biblatex)                Ignoring 'omitnumbers=true' on input line 568.
 
 
 Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
@@ -1792,163 +1783,6 @@ mily. Using \mkbibnamefamily.
 Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
 uffix. Using \mkbibnamesuffix.
 
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-[12]
 
 Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
 iven. Using \mkbibnamegiven.
@@ -2131,46 +1965,49 @@ uffix. Using \mkbibnamesuffix.
 
 
 AED: lastpage setting LastPage
-[13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 524.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 524.
+[10]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 571.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 571.
  (./research_proposal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 524.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 524.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 571.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 571.
 Package rerunfilecheck Info: File `research_proposal.out' has not changed.
-(rerunfilecheck)             Checksum: CFED60E7535047DFF016CEA3CBA9D384;280.
+(rerunfilecheck)             Checksum: B40DD80A9099C0E6781855C5A125CB69;161.
 Package logreq Info: Writing requests to 'research_proposal.run.xml'.
 \openout1 = `research_proposal.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15138 strings out of 493014
- 247498 string characters out of 6133351
- 645614 words of memory out of 5000000
- 18401 multiletter control sequences out of 15000+600000
- 16914 words of font info for 44 fonts, out of 8000000 for 9000
+ 15166 strings out of 493014
+ 248348 string characters out of 6133351
+ 638546 words of memory out of 5000000
+ 18433 multiletter control sequences out of 15000+600000
+ 19888 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,12n,51p,2026b,1108s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,11n,51p,1922b,1027s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
 local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
 ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbi1000.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on research_proposal.pdf (13 pages, 2787229 bytes).
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbi0900.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on research_proposal.pdf (10 pages, 2318127 bytes).
 PDF statistics:
- 288 PDF objects out of 1000 (max. 8388607)
- 247 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 260 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 42 words of extra memory for PDF output out of 10000 (max. 10000000)
 

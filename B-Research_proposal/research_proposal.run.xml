@@ -86,7 +86,7 @@
       <file>research_proposal-blx.bib</file>
     </requires>
     <requires type="editable">
-      <file>/Users/Ileyk/Documents/Bibtex/CNRS_19_fixed.bib</file>
+      <file>/Users/Ileyk/Work/Job_applications/CNAP_19/CNRS_19_fixed.bib</file>
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>
